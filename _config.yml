@@ -1,6 +1,6 @@
 ---
 title: My place
-timezone: UTC
+timezone: Asia/Kolkata
 collections:
   posts:
     title: Posts
@@ -9,7 +9,7 @@ collections:
     title: Uploads
     output: true
 name: Chaitra's website
-description: ''
+description: 
 google_analytics: UA-xxxxxxxx-1
 mailchimp-list: https://chaitrapaikamath.us2.list-manage.com/subscribe/post?u=b7d484ac855b313b6e4fe384d&amp;id=02268205df
 include:
