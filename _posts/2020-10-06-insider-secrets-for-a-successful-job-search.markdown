@@ -38,6 +38,8 @@ The middle circle are your second level connections - people who know the people
 
 The outermost circle refers to those people you wouldn't normally have access to without the bridge of the middle circle. These should ideally be key decision makers (hiring managers, leaders, etc.) at organizations that you're eyeing. Focus your questions on them - their journey, their experience, and their expectations from the role you wish to apply for. This will help you prepare better when you start interacting with other stakeholders. 
 
+![circles.png](/uploads/circles.png)
+
 With all three circles, remember to follow up and thank them for their valuable advice. 
 
 **I've had family, friends, and clients wonder if it's all too much. Wouldn't it be easier to customize their resume and apply? I thought so too. But my experience being on the other side of the table has opened my eyes to a few truths:**
